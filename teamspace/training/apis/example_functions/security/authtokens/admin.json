@@ -1,0 +1,14 @@
+{
+  "name": "admin",
+  "authToken": "svRX3pstyYeEzWuVPbO3",
+  "description": null,
+  "userIdentifier": null,
+  "isActive": true,
+  "expiration": null,
+  "logging": "*=FINE",
+  "roles": [
+    "Training"
+  ],
+  "globals": {
+  }
+}

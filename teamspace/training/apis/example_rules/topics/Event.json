@@ -1,0 +1,5 @@
+{
+  "name": "Event",
+  "color": "#f9bef8",
+  "summary": "Events are javascript code that fire pre-event, early, event, or commit."
+}

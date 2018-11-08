@@ -1,0 +1,13 @@
+{
+  "name": "student1",
+  "fullname": "Student User 1",
+  "isActive": true,
+  "comments": null,
+  "keyLifetimeSeconds": null,
+  "passwordHash": null,
+  "passwordSalt": null,
+  "roles": [
+    "Account admin",
+    "Data admin"
+  ]
+}

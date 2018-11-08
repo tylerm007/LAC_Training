@@ -1,0 +1,7 @@
+{
+  "name": "Timers",
+  "urlFragment": "example1",
+  "comments": "Learn about timers (scheduled events)  \n\nClick on Timers and see how to schedule an event.",
+  "isEnabled": true,
+  "authProviderName": "Built-in authentication"
+}

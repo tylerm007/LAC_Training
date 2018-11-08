@@ -1,0 +1,7 @@
+{
+  "name": "Resources",
+  "urlFragment": "resources",
+  "comments": "Learn about resources as endpoints (table based, freesql, javascript, and MongoDB.\n Use REST Lab GET to execute each resource.",
+  "isEnabled": true,
+  "authProviderName": "Built-in authentication"
+}

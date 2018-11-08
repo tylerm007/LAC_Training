@@ -1,0 +1,16 @@
+{
+  "name": "_USER_TX_AUDIT_",
+  "description": "(Start MongoDB first). \nEnable API Settings to audit user transactions and use this MongoDB resource to post changes, the system will write all transaction details (post, put, delete) using a background thread",
+  "siblingRank": 100,
+  "resourceType": "MongoDB",
+  "isCollection": true,
+  "server": "localhost:27017",
+  "databaseName": "audit",
+  "databaseUser": null,
+  "databasePassword": null,
+  "collectionName": "audit",
+  "attachPath": null,
+  "keys": null,
+  "filter": null,
+  "order": null
+}

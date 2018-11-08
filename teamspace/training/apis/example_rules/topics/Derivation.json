@@ -1,0 +1,5 @@
+{
+  "name": "Derivation",
+  "color": "#efa0eb",
+  "summary": "These are rules that alter the value of a column - sum, count, min, max, copy, or formula"
+}

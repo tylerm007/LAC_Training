@@ -1,0 +1,12 @@
+{
+  "name": "PostgesqlMSD",
+  "datasourceName": null,
+  "url": "jdbc:postgresql://db-docker.expressologic.com:5432/postgres?prepareThreshold=0",
+  "catalogName": "postgres",
+  "userName": "postgres",
+  "description": null,
+  "isActive": true,
+  "managedServerType": "POSTGRESQL",
+  "encryptedPassword": "2:nANGGAe4zcR5xgFH2gyTiaaInSRDApEcc3feairoTCtVVVQmfE4t2A==",
+  "encryptedPasswordSalt": "T9zR/HsJhK040w85p9c+c+tP/7ctkMnWhpJth9ak"
+}

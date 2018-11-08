@@ -1,0 +1,12 @@
+{
+  "name": "MySQL",
+  "datasourceName": null,
+  "url": "jdbc:mysql://localhost:3308",
+  "catalogName": null,
+  "userName": "root",
+  "description": null,
+  "isActive": true,
+  "managedServerType": "MYSQL",
+  "encryptedPassword": "2:L1YRtTHsEHPs57Wb+e6+cmyx5ULd0jg297EIPVORLB0Gqhl9nwNnnQ==",
+  "encryptedPasswordSalt": "VaqQa2mP5F35vtJdVm73AZgiUomUtNENc8IsFuUO"
+}

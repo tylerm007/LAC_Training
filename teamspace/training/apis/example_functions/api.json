@@ -1,0 +1,7 @@
+{
+  "name": "Functions",
+  "urlFragment": "example2",
+  "comments": "Learn about functions (top level endpoint)  \n\nClick on Functions and see how to the function is defined. Then go to Rest Lab and select functions then press GET",
+  "isEnabled": true,
+  "authProviderName": "Built-in authentication"
+}

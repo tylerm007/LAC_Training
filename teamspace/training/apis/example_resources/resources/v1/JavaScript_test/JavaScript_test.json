@@ -1,0 +1,8 @@
+{
+  "name": "JavaScript_test",
+  "description": "The JavaScript endpoint will execute your code and return a result.  Use code completion or see examples",
+  "siblingRank": 100,
+  "resourceType": "JavaScript",
+  "isCollection": true,
+  "joinCondition": null
+}

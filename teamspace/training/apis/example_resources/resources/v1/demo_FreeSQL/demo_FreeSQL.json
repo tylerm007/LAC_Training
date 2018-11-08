@@ -1,0 +1,8 @@
+{
+  "name": "demo_FreeSQL",
+  "description": "You can use the datasource (demo) to execute complex SQL statements.",
+  "siblingRank": 100,
+  "resourceType": "FreeSQL",
+  "prefix": "demo",
+  "isCollection": true
+}

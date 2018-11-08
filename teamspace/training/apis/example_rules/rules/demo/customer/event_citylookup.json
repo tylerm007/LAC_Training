@@ -1,0 +1,19 @@
+{
+  "name": "event_citylookup",
+  "entity": "customer",
+  "isActive": true,
+  "ruleType": "event",
+  "asynchronous": false,
+  "appliesTo": {
+    "insert": true,
+    "update": true,
+    "delete": false
+  },
+  "codeType": "JavaScript",
+  "isAutoTitle": false,
+  "title": "Lookup city and state from zip code",
+  "comments": null,
+  "topics": [
+    "Event"
+  ]
+}

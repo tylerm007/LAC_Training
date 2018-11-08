@@ -1,0 +1,7 @@
+{
+  "name": "Rules",
+  "urlFragment": "rule",
+  "comments": "Learn about rules.  Use Data Explorer to change the LineItem quantity to see customer balance change",
+  "isEnabled": true,
+  "authProviderName": "Built-in authentication"
+}

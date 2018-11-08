@@ -1,0 +1,5 @@
+{
+  "name": "Validations",
+  "color": "#a4c3ad",
+  "summary": "The validation fire at the entity level and return true or false to allow a transaction to complete or roll-back"
+}

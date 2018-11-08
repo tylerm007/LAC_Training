@@ -1,0 +1,13 @@
+{
+  "name": "admin",
+  "fullname": "Admin user for default",
+  "isActive": true,
+  "comments": null,
+  "keyLifetimeSeconds": null,
+  "passwordHash": "FgZQYTISHYgPJIiX3c+dNEkKv/7ggCtsfUDnzit2jJMw7uDDsVjlXXKwAdc2b00OeNdWWAREYg1MN4zB5VDuJw==",
+  "passwordSalt": "dffj69uSSV571r5/uH7orA==",
+  "roles": [
+    "Account admin",
+    "Data admin"
+  ]
+}

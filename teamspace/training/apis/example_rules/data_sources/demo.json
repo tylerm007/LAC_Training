@@ -1,0 +1,28 @@
+{
+  "name": "demo",
+  "prefix": "demo",
+  "title": "Demo Derby Database",
+  "databaseType": "DERBY",
+  "comments": "This datasource is connected to a local Derby database",
+  "isActive": true,
+  "isLogErrors": false,
+  "isSchemaEditable": false,
+  "isSupportBoolean": false,
+  "isReadOnly": false,
+  "useJNDIDataSource": false,
+  "url": "jdbc:derby:Demo",
+  "catalog": null,
+  "schema": "DEMO",
+  "username": "DEMO",
+  "maximumConnections": 20,
+  "tableExcludes": null,
+  "tableIncludes": null,
+  "procedureExcludes": null,
+  "procedureIncludes": null,
+  "nonPersistentAttributes": {
+  },
+  "tableInfos": {
+  },
+  "viewInfos": {
+  }
+}

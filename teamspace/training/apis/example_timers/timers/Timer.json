@@ -1,0 +1,15 @@
+{
+  	"name": "Timer",
+	"isReapting": true,
+        "startTimestampOffset": null,
+        "endTimestampOffset": null,
+        "isNoOverlap": true,
+        "isActive": true,
+        "description": "Click on the Code tab and then the 'Try Once' button.  Go to Logs and see your message.",
+        "maxLogAge": 172800,
+        "isSingleServer": false,
+        "crontab": "/15 * * * * ? *",
+        "isLogErrorOnly": false,
+        "loggingLevel": "Fine"
+
+}

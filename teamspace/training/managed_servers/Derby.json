@@ -1,0 +1,12 @@
+{
+  "name": "Derby",
+  "datasourceName": null,
+  "url": "jdbc:derby:directory:/Users/banty01/derbytest/Demo2;create=true",
+  "catalogName": "Demo2",
+  "userName": null,
+  "description": null,
+  "passwordHash": null,
+  "passwordSalt": null,
+  "isActive": true,
+  "managedServerType": "DERBY"
+}
