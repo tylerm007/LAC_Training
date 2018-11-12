@@ -3,6 +3,7 @@
   "description": null,
   "defaultTablePermission": "N",
   "defaultViewPermission": "N",
+  "defaultFunctionPermission": "X",
   "globals": {
   },
   "apiVisibility": {

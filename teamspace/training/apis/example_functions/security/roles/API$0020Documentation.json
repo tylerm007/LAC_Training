@@ -1,8 +1,9 @@
 {
-  "name": "API Owner",
-  "description": "Full permissions on the entire API",
+  "name": "API Documentation",
+  "description": "Full permissions on the entire API, special documentation role",
   "defaultTablePermission": "A",
   "defaultViewPermission": "A",
+  "defaultFunctionPermission": "N",
   "globals": {
   },
   "apiVisibility": {
@@ -33,5 +34,6 @@
   },
   "entityPermission": {
   },
-  "functionPermission": null
+  "functionPermission": {
+  }
 }
