@@ -20,6 +20,10 @@
 				"title": "Schema",
 				"path": "/projects/:projectId/schema",
 				"currentPage": "schema"
+			}, {
+				"title": "Data Explorer",
+				"path": null,
+				"currentPage": "dataexplorer"
 			}
 			]
 }
