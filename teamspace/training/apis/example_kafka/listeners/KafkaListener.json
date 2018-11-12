@@ -2,13 +2,14 @@
   "name": "KafkaListener",
   "isActive": true,
   "loggingLevel": "Fine",
+  "isSingleServer": true,
   "description": null,
   "connectionName": "KafkaConsumerConnection",
   "providerName": "KafkaConsumer",
   "parameters": {
     "topics": {
       "value": "test",
-      "description": null
+      "comments": null
     }
   }
 }

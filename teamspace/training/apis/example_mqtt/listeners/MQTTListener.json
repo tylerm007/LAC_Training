@@ -2,13 +2,14 @@
   "name": "MQTTListener",
   "isActive": true,
   "loggingLevel": "Fine",
+  "isSingleServer": true,
   "description": null,
   "connectionName": "MQTTConnection",
   "providerName": "MQTT",
   "parameters": {
     "topic_name": {
       "value": "lac",
-      "description": null
+      "comments": null
     }
   }
 }

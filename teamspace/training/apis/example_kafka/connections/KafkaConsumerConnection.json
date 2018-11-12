@@ -5,28 +5,40 @@
   "providerName": "KafkaConsumer",
   "parameters": {
     "group.id": {
+      "name": "group.id",
       "value": "0",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "key.deserializer": {
+      "name": "key.deserializer",
       "value": "org.apache.kafka.common.serialization.StringDeserializer",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "value.deserializer": {
+      "name": "value.deserializer",
       "value": "org.apache.kafka.common.serialization.StringDeserializer",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "connections.max.idle.ms": {
+      "name": "connections.max.idle.ms",
       "value": "540000",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "bootstrap.servers": {
+      "name": "bootstrap.servers",
       "value": "localhost:9092",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "enable.auto.commit": {
+      "name": "enable.auto.commit",
       "value": "true",
-      "comments": null
+      "comments": null,
+      "kind": null
     }
   }
 }

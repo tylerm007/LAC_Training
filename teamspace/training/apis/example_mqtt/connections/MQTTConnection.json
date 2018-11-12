@@ -5,20 +5,28 @@
   "providerName": "MQTT",
   "parameters": {
     "clientId": {
+      "name": "clientId",
       "value": "RANDOM",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "broker": {
+      "name": "broker",
       "value": "tcp://localhost:1883",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "automaticReconnect": {
+      "name": "automaticReconnect",
       "value": "true",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "keepAliveInterval": {
+      "name": "keepAliveInterval",
       "value": "0",
-      "comments": null
+      "comments": null,
+      "kind": null
     }
   }
 }

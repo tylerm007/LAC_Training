@@ -5,28 +5,40 @@
   "providerName": "KafkaProducer",
   "parameters": {
     "group.id": {
+      "name": "group.id",
       "value": "1",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "value.serializer": {
+      "name": "value.serializer",
       "value": "org.apache.kafka.common.serialization.StringSerializer",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "retries": {
+      "name": "retries",
       "value": "1",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "key.serializer": {
+      "name": "key.serializer",
       "value": "org.apache.kafka.common.serialization.StringSerializer",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "bootstrap.servers": {
+      "name": "bootstrap.servers",
       "value": "localhost:9092",
-      "comments": null
+      "comments": null,
+      "kind": null
     },
     "acks": {
+      "name": "acks",
       "value": "all",
-      "comments": null
+      "comments": null,
+      "kind": null
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "event_citylookup",
   "entity": "customer",
-  "isActive": true,
+  "isActive": false,
   "ruleType": "event",
   "asynchronous": false,
   "appliesTo": {
