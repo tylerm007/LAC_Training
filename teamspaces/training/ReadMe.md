@@ -1,4 +1,4 @@
-# Traingin TeamSpaces
+# Training TeamSpaces
 This folder contains definitions for a 'training' teamspace/apis
 
 1. Example Functions
